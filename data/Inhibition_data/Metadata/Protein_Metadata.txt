@@ -1,0 +1,456 @@
+centerdatasetid	pr_lincs_id	pr_name	pr_alternative_id	pr_center_canonical_id	pr_relevant_citations	pr_center_name	pr_center_batch_id	pr_provider_name	pr_provider_catalog_id	pr_provider_batch_id	pr_pln	verf_pr_uniprot_id	pr_mutations	pr_modifications	pr_complex_known_component_lincs_ids	pr_complex_known_component_uniprot_ids	pr_complex_known_component_center_protein_ids	pr_protein_complex_details	pr_protein_complex_stoichiometry	pr_amino_acid_sequence	pr_production_source_organism	pr_production_method	pr_protein_purity	pr_comments
+20340	200001	AAK1		200001		HMS_LINCS		KINOMEscan				Q2M2I8	none specified	not specified							Bacterial expression system			
+20340	200004	ABL1(E255K)-phosphorylated		200004		HMS_LINCS		KINOMEscan				P00519	E255K	phosphorylated							Mammalian expression system			
+20340	200006	ABL1(F317I)-nonphosphorylated		200006		HMS_LINCS		KINOMEscan				P00519	F317I	nonphosphorylated							Mammalian expression system			
+20340	200007	ABL1(F317I)-phosphorylated		200007		HMS_LINCS		KINOMEscan				P00519	F317I	phosphorylated							Mammalian expression system			
+20340	200009	ABL1(F317L)-nonphosphorylated		200009		HMS_LINCS		KINOMEscan				P00519	F317L	nonphosphorylated							Mammalian expression system			
+20340	200010	ABL1(F317L)-phosphorylated		200010		HMS_LINCS		KINOMEscan				P00519	F317L	phosphorylated							Mammalian expression system			
+20340	200012	ABL1(H396P)-nonphosphorylated		200012		HMS_LINCS		KINOMEscan				P00519	H396P	nonphosphorylated							Mammalian expression system			
+20340	200013	ABL1(H396P)-phosphorylated		200013		HMS_LINCS		KINOMEscan				P00519	H396P	phosphorylated							Mammalian expression system			
+20340	200015	ABL1(M351T)-phosphorylated		200015		HMS_LINCS		KINOMEscan				P00519	M351T	phosphorylated							Mammalian expression system			
+20340	200017	ABL1(Q252H)-nonphosphorylated		200017		HMS_LINCS		KINOMEscan				P00519	Q252H	nonphosphorylated							Mammalian expression system			
+20340	200018	ABL1(Q252H)-phosphorylated		200018		HMS_LINCS		KINOMEscan				P00519	Q252H	phosphorylated							Mammalian expression system			
+20340	200020	ABL1(T315I)-nonphosphorylated		200020		HMS_LINCS		KINOMEscan				P00519	T315I	nonphosphorylated							Mammalian expression system			
+20340	200021	ABL1(T315I)-phosphorylated		200021		HMS_LINCS		KINOMEscan				P00519	T315I	phosphorylated							Mammalian expression system			
+20340	200023	ABL1(Y253F)-phosphorylated		200023		HMS_LINCS		KINOMEscan				P00519	Y253F	phosphorylated							Mammalian expression system			
+20340	200024	ABL1-nonphosphorylated		200024		HMS_LINCS		KINOMEscan				P00519	none specified	nonphosphorylated							Mammalian expression system			
+20340	200025	ABL1-phosphorylated		200025		HMS_LINCS		KINOMEscan				P00519	none specified	phosphorylated							Mammalian expression system			
+20340	200026	ABL2		200026		HMS_LINCS		KINOMEscan				P42684	none specified	not specified							Bacterial expression system			
+20340	200027	ACVR1		200027		HMS_LINCS		KINOMEscan				Q04771	none specified	not specified							Bacterial expression system			
+20340	200028	ACVR1B		200028		HMS_LINCS		KINOMEscan				P36896	none specified	not specified							Bacterial expression system			
+20340	200029	ACVR2A		200029		HMS_LINCS		KINOMEscan				P27037	none specified	not specified							Bacterial expression system			
+20340	200030	ACVR2B		200030		HMS_LINCS		KINOMEscan				Q13705	none specified	not specified							Bacterial expression system			
+20340	200031	ACVRL1		200031		HMS_LINCS		KINOMEscan				P37023	none specified	not specified							Bacterial expression system			
+20340	200032	ADCK3		200032		HMS_LINCS		KINOMEscan				Q8NI60	none specified	not specified							Bacterial expression system			
+20340	200033	ADCK4		200033		HMS_LINCS		KINOMEscan				Q96D53	none specified	not specified							Bacterial expression system			
+20340	200034	AKT1		200034		HMS_LINCS		KINOMEscan				P31749	none specified	not specified							Bacterial expression system			
+20340	200035	AKT2		200035		HMS_LINCS		KINOMEscan				P31751	none specified	not specified							Bacterial expression system			
+20340	200036	AKT3		200036		HMS_LINCS		KINOMEscan				Q9Y243	none specified	not specified							Bacterial expression system			
+20340	200037	ALK		200037		HMS_LINCS		KINOMEscan				Q9UM73	none specified	not specified							Bacterial expression system			
+20340	200038	AMPK-alpha1		200038		HMS_LINCS		KINOMEscan				Q13131	none specified	not specified							Bacterial expression system			
+20340	200039	AMPK-alpha2		200039		HMS_LINCS		KINOMEscan				P54646	none specified	not specified							Bacterial expression system			
+20340	200040	ANKK1		200040		HMS_LINCS		KINOMEscan				Q8NFD2	none specified	not specified							Mammalian expression system			
+20340	200041	NUAK1		200041		HMS_LINCS		KINOMEscan				O60285	none specified	not specified							Bacterial expression system			
+20340	200042	M3K5		200042		HMS_LINCS		KINOMEscan				Q99683	none specified	not specified							Bacterial expression system			
+20340	200043	M3K6		200043		HMS_LINCS		KINOMEscan				O95382	none specified	not specified							Mammalian expression system			
+20340	200044	AURKA		200044		HMS_LINCS		KINOMEscan				O14965	none specified	not specified							Mammalian expression system			
+20340	200045	AURKB		200045		HMS_LINCS		KINOMEscan				Q96GD4	none specified	not specified							Mammalian expression system			
+20340	200046	AURKC		200046		HMS_LINCS		KINOMEscan				Q9UQB9	none specified	not specified							Bacterial expression system			
+20340	200047	AXL		200047		HMS_LINCS		KINOMEscan				P30530	none specified	not specified							Bacterial expression system			
+20340	200048	BIKE		200048		HMS_LINCS		KINOMEscan				Q9NSY1	none specified	not specified							Bacterial expression system			
+20340	200049	BLK		200049		HMS_LINCS		KINOMEscan				P51451	none specified	not specified							Bacterial expression system			
+20340	200050	BMPR1A		200050		HMS_LINCS		KINOMEscan				P36894	none specified	not specified							Bacterial expression system			
+20340	200051	BMPR1B		200051		HMS_LINCS		KINOMEscan				O00238	none specified	not specified							Mammalian expression system			
+20340	200052	BMPR2		200052		HMS_LINCS		KINOMEscan				Q13873	none specified	not specified							Mammalian expression system			
+20340	200053	BMX		200053		HMS_LINCS		KINOMEscan				P51813	none specified	not specified							Bacterial expression system			
+20340	200054	BRAF		200054		HMS_LINCS		KINOMEscan				P15056	none specified	not specified							Mammalian expression system			
+20340	200055	BRAF(V600E)		200055		HMS_LINCS		KINOMEscan				P15056	V600E	not specified							Mammalian expression system			
+20340	200056	PTK6		200056		HMS_LINCS		KINOMEscan				Q13882	none specified	not specified							Bacterial expression system			
+20340	200057	BRSK1		200057		HMS_LINCS		KINOMEscan				Q8TDC3	none specified	not specified							Bacterial expression system			
+20340	200058	BRSK2		200058		HMS_LINCS		KINOMEscan				Q8IWQ3	none specified	not specified							Bacterial expression system			
+20340	200059	BTK		200059		HMS_LINCS		KINOMEscan				Q06187	none specified	not specified							Mammalian expression system			
+20340	200060	CAMK1		200060		HMS_LINCS		KINOMEscan				Q14012	none specified	not specified							Bacterial expression system			
+20340	200061	CAMK1D		200061		HMS_LINCS		KINOMEscan				Q8IU85	none specified	not specified							Bacterial expression system			
+20340	200062	CAMK1G		200062		HMS_LINCS		KINOMEscan				Q96NX5	none specified	not specified							Bacterial expression system			
+20340	200063	CAMK2A		200063		HMS_LINCS		KINOMEscan				Q9UQM7	none specified	not specified							Bacterial expression system			
+20340	200064	CAMK2B		200064		HMS_LINCS		KINOMEscan				Q13554	none specified	not specified							Bacterial expression system			
+20340	200065	KCC2D		200065		HMS_LINCS		KINOMEscan				Q13557	none specified	not specified							Bacterial expression system			
+20340	200066	CAMK2G		200066		HMS_LINCS		KINOMEscan				Q13555	none specified	not specified							Bacterial expression system			
+20340	200067	KCC4		200067		HMS_LINCS		KINOMEscan				Q16566	none specified	not specified							Bacterial expression system			
+20340	200068	KKCC1		200068		HMS_LINCS		KINOMEscan				Q8N5S9	none specified	not specified							Bacterial expression system			
+20340	200069	CAMKK2		200069		HMS_LINCS		KINOMEscan				Q96RR4	none specified	not specified							Bacterial expression system			
+20340	200070	CASK		200070		HMS_LINCS		KINOMEscan				O14936	none specified	not specified							Mammalian expression system			
+20340	200071	CDC2L1		200071		HMS_LINCS		KINOMEscan				P21127	none specified	not specified							Bacterial expression system			
+20340	200072	CDC2L2		200072		HMS_LINCS		KINOMEscan				Q9UQ88	none specified	not specified							Bacterial expression system			
+20340	200073	CDC2L5		200073		HMS_LINCS		KINOMEscan				Q14004	none specified	not specified							Mammalian expression system			
+20340	200074	CDK11		200074		HMS_LINCS		KINOMEscan				Q9BWU1	none specified	not specified							Bacterial expression system			
+20340	200075	CDK2		200075		HMS_LINCS		KINOMEscan				P24941	none specified	not specified							Bacterial expression system			
+20340	200076	CDK3		200076		HMS_LINCS		KINOMEscan				Q00526	none specified	not specified							Bacterial expression system			
+20340	200077	CDK4-cyclinD1		200077		HMS_LINCS		KINOMEscan				P11802	none specified	not specified							Mammalian expression system			
+20340	200078	CDK4-cyclinD3		200078		HMS_LINCS		KINOMEscan				P11802	none specified	not specified							Mammalian expression system			
+20340	200079	CDK5		200079		HMS_LINCS		KINOMEscan				Q00535	none specified	not specified							Bacterial expression system			
+20340	200080	CDK7		200080		HMS_LINCS		KINOMEscan				P50613	none specified	not specified							Mammalian expression system			
+20340	200081	CDK8		200081		HMS_LINCS		KINOMEscan				P49336	none specified	not specified							Bacterial expression system			
+20340	200082	CDK9		200082		HMS_LINCS		KINOMEscan				P50750	none specified	not specified							Bacterial expression system			
+20340	200083	CDKL1		200083		HMS_LINCS		KINOMEscan				Q00532	none specified	not specified							Mammalian expression system			
+20340	200084	CDKL2		200084		HMS_LINCS		KINOMEscan				Q92772	none specified	not specified							Bacterial expression system			
+20340	200085	CDKL3		200085		HMS_LINCS		KINOMEscan				Q8IVW4	none specified	not specified							Bacterial expression system			
+20340	200086	CDKL5		200086		HMS_LINCS		KINOMEscan				O76039	none specified	not specified							Mammalian expression system			
+20340	200087	CHEK1		200087		HMS_LINCS		KINOMEscan				O14757	none specified	not specified							Bacterial expression system			
+20340	200088	CHK2		200088		HMS_LINCS		KINOMEscan				O96017	none specified	not specified							Bacterial expression system			
+20340	200089	CIT		200089		HMS_LINCS		KINOMEscan				O14578	none specified	not specified							Bacterial expression system			
+20340	200090	CLK1		200090		HMS_LINCS		KINOMEscan				P49759	none specified	not specified							Bacterial expression system			
+20340	200091	CLK2		200091		HMS_LINCS		KINOMEscan				P49760	none specified	not specified							Bacterial expression system			
+20340	200092	CLK3		200092		HMS_LINCS		KINOMEscan				P49761	none specified	not specified							Bacterial expression system			
+20340	200093	CLK4		200093		HMS_LINCS		KINOMEscan				Q9HAZ1	none specified	not specified							Bacterial expression system			
+20340	200094	CSF1R		200094		HMS_LINCS		KINOMEscan				P07333	none specified	not specified							Bacterial expression system			
+20340	200095	CSK		200095		HMS_LINCS		KINOMEscan				P41240	none specified	not specified							Bacterial expression system			
+20340	200096	CSNK1A1		200096		HMS_LINCS		KINOMEscan				P48729	none specified	not specified							Mammalian expression system			
+20340	200097	CSNK1A1L		200097		HMS_LINCS		KINOMEscan				Q8N752	none specified	not specified							Bacterial expression system			
+20340	200098	CSNK1D		200098		HMS_LINCS		KINOMEscan				P48730	none specified	not specified							Bacterial expression system			
+20340	200099	CSNK1E		200099		HMS_LINCS		KINOMEscan				P49674	none specified	not specified							Bacterial expression system			
+20340	200100	KC1G1		200100		HMS_LINCS		KINOMEscan				Q9HCP0	none specified	not specified							Bacterial expression system			
+20340	200101	KC1G2		200101		HMS_LINCS		KINOMEscan				P78368	none specified	not specified							Bacterial expression system			
+20340	200102	CSNK1G3		200102		HMS_LINCS		KINOMEscan				Q9Y6M4	none specified	not specified							Bacterial expression system			
+20340	200103	CSNK2A1		200103		HMS_LINCS		KINOMEscan				P68400	none specified	not specified							Mammalian expression system			
+20340	200104	CSNK2A2		200104		HMS_LINCS		KINOMEscan				P19784	none specified	not specified							Mammalian expression system			
+20340	200105	CTK		200105		HMS_LINCS		KINOMEscan				P42679	none specified	not specified							Mammalian expression system			
+20340	200106	DAPK1		200106		HMS_LINCS		KINOMEscan				P53355	none specified	not specified							Bacterial expression system			
+20340	200107	DAPK2		200107		HMS_LINCS		KINOMEscan				Q9UIK4	none specified	not specified							Bacterial expression system			
+20340	200108	DAPK3		200108		HMS_LINCS		KINOMEscan				O43293	none specified	not specified							Bacterial expression system			
+20340	200109	DCLK1		200109		HMS_LINCS		KINOMEscan				O15075	none specified	not specified							Mammalian expression system			
+20340	200110	DCAMKL2		200110		HMS_LINCS		KINOMEscan				Q8N568	none specified	not specified							Bacterial expression system			
+20340	200111	DCAMKL3		200111		HMS_LINCS		KINOMEscan				Q9C098	none specified	not specified							Bacterial expression system			
+20340	200112	DDR1		200112		HMS_LINCS		KINOMEscan				Q08345	none specified	not specified							Bacterial expression system			
+20340	200113	DDR2		200113		HMS_LINCS		KINOMEscan				Q16832	none specified	not specified							Mammalian expression system			
+20340	200114	M3K12		200114		HMS_LINCS		KINOMEscan				Q12852	none specified	not specified							Mammalian expression system			
+20340	200115	DMPK		200115		HMS_LINCS		KINOMEscan				Q09013	none specified	not specified							Bacterial expression system			
+20340	200116	DMPK2		200116		HMS_LINCS		KINOMEscan				Q6DT37	none specified	not specified							Bacterial expression system			
+20340	200117	DRAK1		200117		HMS_LINCS		KINOMEscan				Q9UEE5	none specified	not specified							Bacterial expression system			
+20340	200118	DRAK2		200118		HMS_LINCS		KINOMEscan				O94768	none specified	not specified							Bacterial expression system			
+20340	200119	DYRK1A		200119		HMS_LINCS		KINOMEscan				Q13627	none specified	not specified							Mammalian expression system			
+20340	200120	DYRK1B		200120		HMS_LINCS		KINOMEscan				Q9Y463	none specified	not specified							Bacterial expression system			
+20340	200121	DYRK2		200121		HMS_LINCS		KINOMEscan				Q92630	none specified	not specified							Mammalian expression system			
+20340	200122	EGFR		200122		HMS_LINCS		KINOMEscan				P00533	none specified	not specified							Bacterial expression system			
+20340	200123	EGFR(E746-A750del)		200123		HMS_LINCS		KINOMEscan				P00533	E746-A750del	not specified							Bacterial expression system			
+20340	200124	EGFR(G719C)		200124		HMS_LINCS		KINOMEscan				P00533	G719C	not specified							Bacterial expression system			
+20340	200125	EGFR(G719S)		200125		HMS_LINCS		KINOMEscan				P00533	G719S	not specified							Bacterial expression system			
+20340	200126	"EGFR(L747-E749del, A750P)"		200126		HMS_LINCS		KINOMEscan				P00533	"A750P, L747-E749del"	not specified							Bacterial expression system			
+20340	200127	"EGFR(L747-S752del, P753S)"		200127		HMS_LINCS		KINOMEscan				P00533	"P753S, L747-S752del"	not specified							Bacterial expression system			
+20340	200128	"EGFR(L747-T751del,Sins)"		200128		HMS_LINCS		KINOMEscan				P00533	"L747-T751del,Sins"	not specified							Bacterial expression system			
+20340	200129	EGFR(L858R)		200129		HMS_LINCS		KINOMEscan				P00533	L858R	not specified							Bacterial expression system			
+20340	200130	"EGFR(L858R,T790M)"		200130		HMS_LINCS		KINOMEscan				P00533	"L858R,T790M"	not specified							Mammalian expression system			
+20340	200131	EGFR(L861Q)		200131		HMS_LINCS		KINOMEscan				P00533	L861Q	not specified							Bacterial expression system			
+20340	200132	EGFR(S752-I759del)		200132		HMS_LINCS		KINOMEscan				P00533	S752-I759del	not specified							Bacterial expression system			
+20340	200133	EGFR(T790M)		200133		HMS_LINCS		KINOMEscan				P00533	T790M	not specified							Mammalian expression system			
+20340	200134	EIF2AK1		200134		HMS_LINCS		KINOMEscan				Q9BQI3	none specified	not specified							Mammalian expression system			
+20340	200135	EPHA1		200135		HMS_LINCS		KINOMEscan				P21709	none specified	not specified							Bacterial expression system			
+20340	200136	EPHA2		200136		HMS_LINCS		KINOMEscan				P29317	none specified	not specified							Bacterial expression system			
+20340	200137	EPHA3		200137		HMS_LINCS		KINOMEscan				P29320	none specified	not specified							Bacterial expression system			
+20340	200138	EPHA4		200138		HMS_LINCS		KINOMEscan				P54764	none specified	not specified							Bacterial expression system			
+20340	200139	EPHA5		200139		HMS_LINCS		KINOMEscan				P54756	none specified	not specified							Bacterial expression system			
+20340	200140	EPHA6		200140		HMS_LINCS		KINOMEscan				Q9UF33	none specified	not specified							Bacterial expression system			
+20340	200141	EPHA7		200141		HMS_LINCS		KINOMEscan				Q15375	none specified	not specified							Bacterial expression system			
+20340	200142	EPHA8		200142		HMS_LINCS		KINOMEscan				P29322	none specified	not specified							Bacterial expression system			
+20340	200143	EPHB1		200143		HMS_LINCS		KINOMEscan				P54762	none specified	not specified							Bacterial expression system			
+20340	200144	EPHB2		200144		HMS_LINCS		KINOMEscan				P29323	none specified	not specified							Bacterial expression system			
+20340	200145	EPHB3		200145		HMS_LINCS		KINOMEscan				P54753	none specified	not specified							Bacterial expression system			
+20340	200146	EPHB4		200146		HMS_LINCS		KINOMEscan				P54760	none specified	not specified							Bacterial expression system			
+20340	200147	EPHB6		200147		HMS_LINCS		KINOMEscan				O15197	none specified	not specified							Mammalian expression system			
+20340	200148	ERBB2		200148		HMS_LINCS		KINOMEscan				P04626	none specified	not specified							Mammalian expression system			
+20340	200149	ERBB3		200149		HMS_LINCS		KINOMEscan				P21860	none specified	not specified							Mammalian expression system			
+20340	200150	ERBB4		200150		HMS_LINCS		KINOMEscan				Q15303	none specified	not specified							Bacterial expression system			
+20340	200151	MK03		200151		HMS_LINCS		KINOMEscan				P27361	none specified	not specified							Bacterial expression system			
+20340	200152	MK01		200152		HMS_LINCS		KINOMEscan				P28482	none specified	not specified							Bacterial expression system			
+20340	200153	ERK3		200153		HMS_LINCS		KINOMEscan				Q16659	none specified	not specified							Bacterial expression system			
+20340	200154	ERK4		200154		HMS_LINCS		KINOMEscan				P31152	none specified	not specified							Bacterial expression system			
+20340	200155	ERK5		200155		HMS_LINCS		KINOMEscan				Q13164	none specified	not specified							Bacterial expression system			
+20340	200156	ERK8		200156		HMS_LINCS		KINOMEscan				Q8TD08	none specified	not specified							Bacterial expression system			
+20340	200157	ERN1		200157		HMS_LINCS		KINOMEscan				O75460	none specified	not specified							Mammalian expression system			
+20340	200158	FAK1		200158		HMS_LINCS		KINOMEscan				Q05397	none specified	not specified							Bacterial expression system			
+20340	200159	FER		200159		HMS_LINCS		KINOMEscan				P16591	none specified	not specified							Bacterial expression system			
+20340	200160	FES		200160		HMS_LINCS		KINOMEscan				P07332	none specified	not specified							Bacterial expression system			
+20340	200161	FGFR1		200161		HMS_LINCS		KINOMEscan				P11362	none specified	not specified							Bacterial expression system			
+20340	200162	FGFR2		200162		HMS_LINCS		KINOMEscan				P21802	none specified	not specified							Bacterial expression system			
+20340	200163	FGFR3		200163		HMS_LINCS		KINOMEscan				P22607	none specified	not specified							Bacterial expression system			
+20340	200164	FGFR3(G697C)		200164		HMS_LINCS		KINOMEscan				P22607	G697C	not specified							Bacterial expression system			
+20340	200165	FGFR4		200165		HMS_LINCS		KINOMEscan				P22455	none specified	not specified							Bacterial expression system			
+20340	200166	FGR		200166		HMS_LINCS		KINOMEscan				P09769	none specified	not specified							Bacterial expression system			
+20340	200167	VGFR1		200167		HMS_LINCS		KINOMEscan				P17948	none specified	not specified							Bacterial expression system			
+20340	200168	FLT3		200168		HMS_LINCS		KINOMEscan				P36888	none specified	not specified							Bacterial expression system			
+20340	200169	FLT3(D835H)		200169		HMS_LINCS		KINOMEscan				P36888	D835H	not specified							Bacterial expression system			
+20340	200170	FLT3(D835Y)		200170		HMS_LINCS		KINOMEscan				P36888	D835Y	not specified							Bacterial expression system			
+20340	200171	FLT3(ITD)		200171		HMS_LINCS		KINOMEscan				P36888	none specified	not specified							Bacterial expression system			
+20340	200172	FLT3(K663Q)		200172		HMS_LINCS		KINOMEscan				P36888	K663Q	not specified							Bacterial expression system			
+20340	200173	FLT3(N841I)		200173		HMS_LINCS		KINOMEscan				P36888	N841I	not specified							Bacterial expression system			
+20340	200174	FLT3(R834Q)		200174		HMS_LINCS		KINOMEscan				P36888	R834Q	not specified							Mammalian expression system			
+20340	200175	FLT4		200175		HMS_LINCS		KINOMEscan				P35916	none specified	not specified							Bacterial expression system			
+20340	200176	FRK		200176		HMS_LINCS		KINOMEscan				P42685	none specified	not specified							Bacterial expression system			
+20340	200177	FYN		200177		HMS_LINCS		KINOMEscan				P06241	none specified	not specified							Bacterial expression system			
+20340	200178	GAK		200178		HMS_LINCS		KINOMEscan				O14976	none specified	not specified							Bacterial expression system			
+20340	200179	"GCN2(Kin.Dom.2,S808G)"		200179		HMS_LINCS		KINOMEscan				Q9P2K8	S808G	not specified							Bacterial expression system			
+20340	200180	GRK1		200180		HMS_LINCS		KINOMEscan				Q15835	none specified	not specified							Mammalian expression system			
+20340	200181	GRK4		200181		HMS_LINCS		KINOMEscan				P32298	none specified	not specified							Bacterial expression system			
+20340	200182	GRK7		200182		HMS_LINCS		KINOMEscan				Q8WTQ7	none specified	not specified							Mammalian expression system			
+20340	200183	GSK3A		200183		HMS_LINCS		KINOMEscan				P49840	none specified	not specified							Bacterial expression system			
+20340	200184	GSK3B		200184		HMS_LINCS		KINOMEscan				P49841	none specified	not specified							Mammalian expression system			
+20340	200185	HCK		200185		HMS_LINCS		KINOMEscan				P08631	none specified	not specified							Bacterial expression system			
+20340	200186	HIPK1		200186		HMS_LINCS		KINOMEscan				Q86Z02	none specified	not specified							Mammalian expression system			
+20340	200187	HIPK2		200187		HMS_LINCS		KINOMEscan				Q9H2X6	none specified	not specified							Mammalian expression system			
+20340	200188	HIPK3		200188		HMS_LINCS		KINOMEscan				Q9H422	none specified	not specified							Mammalian expression system			
+20340	200189	HIPK4		200189		HMS_LINCS		KINOMEscan				Q8NE63	none specified	not specified							Bacterial expression system			
+20340	200190	M4K1		200190		HMS_LINCS		KINOMEscan				Q92918	none specified	not specified							Bacterial expression system			
+20340	200191	HUNK		200191		HMS_LINCS		KINOMEscan				P57058	none specified	not specified							Bacterial expression system			
+20340	200192	ICK		200192		HMS_LINCS		KINOMEscan				Q9UPZ9	none specified	not specified							Mammalian expression system			
+20340	200193	IGF1R		200193		HMS_LINCS		KINOMEscan				P08069	none specified	not specified							Bacterial expression system			
+20340	200194	IKKA		200194		HMS_LINCS		KINOMEscan				O15111	none specified	not specified							Mammalian expression system			
+20340	200195	IKKB		200195		HMS_LINCS		KINOMEscan				O14920	none specified	not specified							Mammalian expression system			
+20340	200196	IKKE		200196		HMS_LINCS		KINOMEscan				Q14164	none specified	not specified							Mammalian expression system			
+20340	200197	INSR		200197		HMS_LINCS		KINOMEscan				P06213	none specified	not specified							Mammalian expression system			
+20340	200198	INSRR		200198		HMS_LINCS		KINOMEscan				P14616	none specified	not specified							Bacterial expression system			
+20340	200199	IRAK1		200199		HMS_LINCS		KINOMEscan				P51617	none specified	not specified							Mammalian expression system			
+20340	200200	IRAK3		200200		HMS_LINCS		KINOMEscan				Q9Y616	none specified	not specified							Bacterial expression system			
+20340	200201	IRAK4		200201		HMS_LINCS		KINOMEscan				Q9NWZ3	none specified	not specified							Mammalian expression system			
+20340	200202	ITK		200202		HMS_LINCS		KINOMEscan				Q08881	none specified	not specified							Bacterial expression system			
+20340	200203	JAK1(JH1domain-catalytic)		200203		HMS_LINCS		KINOMEscan				P23458	none specified	not specified							Bacterial expression system			
+20340	200204	JAK1(JH2domain-pseudokinase)		200204		HMS_LINCS		KINOMEscan				P23458	none specified	not specified							Mammalian expression system			
+20340	200207	JAK2(JH1domain-catalytic)		200207		HMS_LINCS		KINOMEscan				O60674	none specified	not specified							Mammalian expression system			
+20340	200209	JAK3(JH1domain-catalytic)		200209		HMS_LINCS		KINOMEscan				P52333	none specified	not specified							Mammalian expression system			
+20340	200211	JNK1		200211		HMS_LINCS		KINOMEscan				P45983	none specified	not specified							Mammalian expression system			
+20340	200212	MK09		200212		HMS_LINCS		KINOMEscan				P45984	none specified	not specified							Mammalian expression system			
+20340	200213	JNK3		200213		HMS_LINCS		KINOMEscan				P53779	none specified	not specified							Mammalian expression system			
+20340	200214	KIT		200214		HMS_LINCS		KINOMEscan				P10721	none specified	not specified							Bacterial expression system			
+20340	200215	KIT(A829P)		200215		HMS_LINCS		KINOMEscan				P10721	A829P	not specified							Mammalian expression system			
+20340	200216	KIT(D816H)		200216		HMS_LINCS		KINOMEscan				P10721	D816H	not specified							Mammalian expression system			
+20340	200217	KIT(D816V)		200217		HMS_LINCS		KINOMEscan				P10721	D816V	not specified							Bacterial expression system			
+20340	200218	KIT(L576P)		200218		HMS_LINCS		KINOMEscan				P10721	L576P	not specified							Bacterial expression system			
+20340	200219	KIT(V559D)		200219		HMS_LINCS		KINOMEscan				P10721	V559D	not specified							Bacterial expression system			
+20340	200220	"KIT(V559D,T670I)"		200220		HMS_LINCS		KINOMEscan				P10721	"V559D,T670I"	not specified							Bacterial expression system			
+20340	200221	"KIT(V559D,V654A)"		200221		HMS_LINCS		KINOMEscan				P10721	"V559D,V654A"	not specified							Bacterial expression system			
+20340	200222	LATS1		200222		HMS_LINCS		KINOMEscan				O95835	none specified	not specified							Bacterial expression system			
+20340	200223	LATS2		200223		HMS_LINCS		KINOMEscan				Q9NRM7	none specified	not specified							Mammalian expression system			
+20340	200224	LCK		200224		HMS_LINCS		KINOMEscan				P06239	none specified	not specified							Bacterial expression system			
+20340	200225	LIMK1		200225		HMS_LINCS		KINOMEscan				P53667	none specified	not specified							Bacterial expression system			
+20340	200226	LIMK2		200226		HMS_LINCS		KINOMEscan				P53671	none specified	not specified							Bacterial expression system			
+20340	200227	LKB1		200227		HMS_LINCS		KINOMEscan				Q15831	none specified	not specified							Bacterial expression system			
+20340	200228	LOK		200228		HMS_LINCS		KINOMEscan				O94804	none specified	not specified							Bacterial expression system			
+20340	200229	LRRK2		200229		HMS_LINCS		KINOMEscan				Q5S007	none specified	not specified							Mammalian expression system			
+20340	200230	LRRK2(G2019S)		200230		HMS_LINCS		KINOMEscan				Q5S007	G2019S	not specified							Mammalian expression system			
+20340	200231	LTK		200231		HMS_LINCS		KINOMEscan				P29376	none specified	not specified							Bacterial expression system			
+20340	200232	LYN		200232		HMS_LINCS		KINOMEscan				P07948	none specified	not specified							Bacterial expression system			
+20340	200233	M3K13		200233		HMS_LINCS		KINOMEscan				O43283	none specified	not specified							Mammalian expression system			
+20340	200234	MAK		200234		HMS_LINCS		KINOMEscan				P20794	none specified	not specified							Bacterial expression system			
+20340	200235	MAP3K1		200235		HMS_LINCS		KINOMEscan				Q13233	none specified	not specified							Mammalian expression system			
+20340	200236	MAP3K15		200236		HMS_LINCS		KINOMEscan				Q6ZN16	none specified	not specified							Mammalian expression system			
+20340	200237	M3K2		200237		HMS_LINCS		KINOMEscan				Q9Y2U5	none specified	not specified							Mammalian expression system			
+20340	200238	MAP3K3		200238		HMS_LINCS		KINOMEscan				Q99759	none specified	not specified							Mammalian expression system			
+20340	200239	MAP3K4		200239		HMS_LINCS		KINOMEscan				Q9Y6R4	none specified	not specified							Bacterial expression system			
+20340	200240	MAP4K2		200240		HMS_LINCS		KINOMEscan				Q12851	none specified	not specified							Mammalian expression system			
+20340	200241	M4K3		200241		HMS_LINCS		KINOMEscan				Q8IVH8	none specified	not specified							Bacterial expression system			
+20340	200242	MAP4K4		200242		HMS_LINCS		KINOMEscan				O95819	none specified	not specified							Bacterial expression system			
+20340	200243	MAP4K5		200243		HMS_LINCS		KINOMEscan				Q9Y4K4	none specified	not specified							Bacterial expression system			
+20340	200244	MAPKAPK2		200244		HMS_LINCS		KINOMEscan				P49137	none specified	not specified							Bacterial expression system			
+20340	200245	MAPKAPK5		200245		HMS_LINCS		KINOMEscan				Q8IW41	none specified	not specified							Mammalian expression system			
+20340	200246	MARK1		200246		HMS_LINCS		KINOMEscan				Q9P0L2	none specified	not specified							Bacterial expression system			
+20340	200247	MARK2		200247		HMS_LINCS		KINOMEscan				Q7KZI7	none specified	not specified							Bacterial expression system			
+20340	200248	MARK3		200248		HMS_LINCS		KINOMEscan				P27448	none specified	not specified							Bacterial expression system			
+20340	200249	MARK4		200249		HMS_LINCS		KINOMEscan				Q96L34	none specified	not specified							Bacterial expression system			
+20340	200250	MAST1		200250		HMS_LINCS		KINOMEscan				Q9Y2H9	none specified	not specified							Mammalian expression system			
+20340	200251	MP2K1		200251		HMS_LINCS		KINOMEscan				Q02750	none specified	not specified							Mammalian expression system			
+20340	200252	MP2K2		200252		HMS_LINCS		KINOMEscan				P36507	none specified	not specified							Mammalian expression system			
+20340	200253	MP2K3		200253		HMS_LINCS		KINOMEscan				P46734	none specified	not specified							Mammalian expression system			
+20340	200254	MP2K4		200254		HMS_LINCS		KINOMEscan				P45985	none specified	not specified							Mammalian expression system			
+20340	200255	MP2K5		200255		HMS_LINCS		KINOMEscan				Q13163	none specified	not specified							Mammalian expression system			
+20340	200256	MP2K6		200256		HMS_LINCS		KINOMEscan				P52564	none specified	not specified							Bacterial expression system			
+20340	200257	MELK		200257		HMS_LINCS		KINOMEscan				Q14680	none specified	not specified							Bacterial expression system			
+20340	200258	MERTK		200258		HMS_LINCS		KINOMEscan				Q12866	none specified	not specified							Bacterial expression system			
+20340	200259	MET		200259		HMS_LINCS		KINOMEscan				P08581	none specified	not specified							Bacterial expression system			
+20340	200260	MET(M1250T)		200260		HMS_LINCS		KINOMEscan				P08581	M1250T	not specified							Bacterial expression system			
+20340	200261	MET(Y1235D)		200261		HMS_LINCS		KINOMEscan				P08581	Y1235D	not specified							Bacterial expression system			
+20340	200262	MINK		200262		HMS_LINCS		KINOMEscan				Q8N4C8	none specified	not specified							Mammalian expression system			
+20340	200263	MP2K7		200263		HMS_LINCS		KINOMEscan				O14733	none specified	not specified							Mammalian expression system			
+20340	200264	MKNK1		200264		HMS_LINCS		KINOMEscan				Q9BUB5	none specified	not specified							Mammalian expression system			
+20340	200265	MKNK2		200265		HMS_LINCS		KINOMEscan				Q9HBH9	none specified	not specified							Mammalian expression system			
+20340	200266	MLCK		200266		HMS_LINCS		KINOMEscan				Q32MK0	none specified	not specified							Bacterial expression system			
+20340	200267	MLK1		200267		HMS_LINCS		KINOMEscan				P80192	none specified	not specified							Bacterial expression system			
+20340	200268	MLK2		200268		HMS_LINCS		KINOMEscan				Q02779	none specified	not specified							Bacterial expression system			
+20340	200269	MLK3		200269		HMS_LINCS		KINOMEscan				Q16584	none specified	not specified							Bacterial expression system			
+20340	200270	MRCKA		200270		HMS_LINCS		KINOMEscan				Q5VT25	none specified	not specified							Bacterial expression system			
+20340	200271	MRCKB		200271		HMS_LINCS		KINOMEscan				Q9Y5S2	none specified	not specified							Bacterial expression system			
+20340	200272	MST1		200272		HMS_LINCS		KINOMEscan				Q13043	none specified	not specified							Bacterial expression system			
+20340	200273	MST1R		200273		HMS_LINCS		KINOMEscan				Q04912	none specified	not specified							Bacterial expression system			
+20340	200274	MST2		200274		HMS_LINCS		KINOMEscan				Q13188	none specified	not specified							Bacterial expression system			
+20340	200275	MST3		200275		HMS_LINCS		KINOMEscan				Q9Y6E0	none specified	not specified							Bacterial expression system			
+20340	200276	MST4		200276		HMS_LINCS		KINOMEscan				Q9P289	none specified	not specified							Mammalian expression system			
+20340	200277	MTOR		200277		HMS_LINCS		KINOMEscan				P42345	none specified	not specified							Mammalian expression system			
+20340	200278	MUSK		200278		HMS_LINCS		KINOMEscan				O15146	none specified	not specified							Bacterial expression system			
+20340	200279	MYLK		200279		HMS_LINCS		KINOMEscan				Q15746	none specified	not specified							Mammalian expression system			
+20340	200280	MYLK2		200280		HMS_LINCS		KINOMEscan				Q9H1R3	none specified	not specified							Bacterial expression system			
+20340	200281	MYLK4		200281		HMS_LINCS		KINOMEscan				Q86YV6	none specified	not specified							Bacterial expression system			
+20340	200282	MYO3A		200282		HMS_LINCS		KINOMEscan				Q8NEV4	none specified	not specified							Bacterial expression system			
+20340	200283	MYO3B		200283		HMS_LINCS		KINOMEscan				Q8WXR4	none specified	not specified							Bacterial expression system			
+20340	200284	NDR1		200284		HMS_LINCS		KINOMEscan				Q15208	none specified	not specified							Mammalian expression system			
+20340	200285	NDR2		200285		HMS_LINCS		KINOMEscan				Q9Y2H1	none specified	not specified							Bacterial expression system			
+20340	200286	NEK1		200286		HMS_LINCS		KINOMEscan				Q96PY6	none specified	not specified							Bacterial expression system			
+20340	200287	NEK11		200287		HMS_LINCS		KINOMEscan				Q8NG66	none specified	not specified							Mammalian expression system			
+20340	200288	NEK2		200288		HMS_LINCS		KINOMEscan				P51955	none specified	not specified							Bacterial expression system			
+20340	200289	NEK3		200289		HMS_LINCS		KINOMEscan				P51956	none specified	not specified							Mammalian expression system			
+20340	200290	NEK4		200290		HMS_LINCS		KINOMEscan				P51957	none specified	not specified							Mammalian expression system			
+20340	200291	NEK5		200291		HMS_LINCS		KINOMEscan				Q6P3R8	none specified	not specified							Bacterial expression system			
+20340	200292	NEK6		200292		HMS_LINCS		KINOMEscan				Q9HC98	none specified	not specified							Bacterial expression system			
+20340	200293	NEK7		200293		HMS_LINCS		KINOMEscan				Q8TDX7	none specified	not specified							Bacterial expression system			
+20340	200294	NEK9		200294		HMS_LINCS		KINOMEscan				Q8TD19	none specified	not specified							Bacterial expression system			
+20340	200295	NIM1		200295		HMS_LINCS		KINOMEscan				Q8IY84	none specified	not specified							Mammalian expression system			
+20340	200296	NLK		200296		HMS_LINCS		KINOMEscan				Q9UBE8	none specified	not specified							Bacterial expression system			
+20340	200297	OSR1		200297		HMS_LINCS		KINOMEscan				O95747	none specified	not specified							Mammalian expression system			
+20340	200298	MK14		200298		HMS_LINCS		KINOMEscan				Q16539	none specified	not specified							Bacterial expression system			
+20340	200299	MK11		200299		HMS_LINCS		KINOMEscan				Q15759	none specified	not specified							Bacterial expression system			
+20340	200300	MK13		200300		HMS_LINCS		KINOMEscan				O15264	none specified	not specified							Bacterial expression system			
+20340	200301	MK12		200301		HMS_LINCS		KINOMEscan				P53778	none specified	not specified							Mammalian expression system			
+20340	200302	PAK1		200302		HMS_LINCS		KINOMEscan				Q13153	none specified	not specified							Bacterial expression system			
+20340	200303	PAK2		200303		HMS_LINCS		KINOMEscan				Q13177	none specified	not specified							Bacterial expression system			
+20340	200304	PAK3		200304		HMS_LINCS		KINOMEscan				O75914	none specified	not specified							Bacterial expression system			
+20340	200305	PAK4		200305		HMS_LINCS		KINOMEscan				O96013	none specified	not specified							Bacterial expression system			
+20340	200306	PAK6		200306		HMS_LINCS		KINOMEscan				Q9NQU5	none specified	not specified							Bacterial expression system			
+20340	200307	PAK7		200307		HMS_LINCS		KINOMEscan				Q9P286	none specified	not specified							Bacterial expression system			
+20340	200309	CDK16		200309		HMS_LINCS		KINOMEscan				Q00536	none specified	not specified							Mammalian expression system			
+20340	200310	PCTK2		200310		HMS_LINCS		KINOMEscan				Q00537	none specified	not specified							Bacterial expression system			
+20340	200311	PCTK3		200311		HMS_LINCS		KINOMEscan				Q07002	none specified	not specified							Bacterial expression system			
+20340	200312	PGFRA		200312		HMS_LINCS		KINOMEscan				P16234	none specified	not specified							Mammalian expression system			
+20340	200313	PGFRB		200313		HMS_LINCS		KINOMEscan				P09619	none specified	not specified							Bacterial expression system			
+20340	200314	PDPK1		200314		HMS_LINCS		KINOMEscan				O15530	none specified	not specified							Bacterial expression system			
+20340	200315	PFCDPK1(P.falciparum)		200315		HMS_LINCS		KINOMEscan				P62344	none specified	not specified							Mammalian expression system			
+20340	200316	PFPK5(P.falciparum)		200316		HMS_LINCS		KINOMEscan				P61075	none specified	not specified							Mammalian expression system			
+20340	200317	CDK15		200317		HMS_LINCS		KINOMEscan				Q96Q40	none specified	not specified							Bacterial expression system			
+20340	200318	CDK14		200318		HMS_LINCS		KINOMEscan				O94921	none specified	not specified							Bacterial expression system			
+20340	200319	PHKG1		200319		HMS_LINCS		KINOMEscan				Q16816	none specified	not specified							Bacterial expression system			
+20340	200320	PHKG2		200320		HMS_LINCS		KINOMEscan				P15735	none specified	not specified							Bacterial expression system			
+20340	200321	PIK3C2B		200321		HMS_LINCS		KINOMEscan				O00750	none specified	not specified							Mammalian expression system			
+20340	200322	PIK3C2G		200322		HMS_LINCS		KINOMEscan				O75747	none specified	not specified							Mammalian expression system			
+20340	200323	PIK3CA		200323		HMS_LINCS		KINOMEscan				P42336	none specified	not specified							Mammalian expression system			
+20340	200324	PIK3CA(C420R)		200324		HMS_LINCS		KINOMEscan				P42336	C420R	not specified							Mammalian expression system			
+20340	200325	PIK3CA(E542K)		200325		HMS_LINCS		KINOMEscan				P42336	E542K	not specified							Mammalian expression system			
+20340	200326	PIK3CA(E545A)		200326		HMS_LINCS		KINOMEscan				P42336	E545A	not specified							Mammalian expression system			
+20340	200327	PIK3CA(E545K)		200327		HMS_LINCS		KINOMEscan				P42336	E545K	not specified							Mammalian expression system			
+20340	200328	PIK3CA(H1047L)		200328		HMS_LINCS		KINOMEscan				P42336	H1047L	not specified							Mammalian expression system			
+20340	200329	PIK3CA(H1047Y)		200329		HMS_LINCS		KINOMEscan				P42336	H1047Y	not specified							Mammalian expression system			
+20340	200330	PIK3CA(I800L)		200330		HMS_LINCS		KINOMEscan				P42336	I800L	not specified							Mammalian expression system			
+20340	200331	PIK3CA(M1043I)		200331		HMS_LINCS		KINOMEscan				P42336	M1043I	not specified							Mammalian expression system			
+20340	200332	PIK3CA(Q546K)		200332		HMS_LINCS		KINOMEscan				P42336	Q546K	not specified							Mammalian expression system			
+20340	200333	PIK3CB		200333		HMS_LINCS		KINOMEscan				P42338	none specified	not specified							Mammalian expression system			
+20340	200334	PIK3CD		200334		HMS_LINCS		KINOMEscan				O00329	none specified	not specified							Mammalian expression system			
+20340	200335	PIK3CG		200335		HMS_LINCS		KINOMEscan				P48736	none specified	not specified							Mammalian expression system			
+20340	200336	PIK4CB		200336		HMS_LINCS		KINOMEscan				Q9UBF8	none specified	not specified							Mammalian expression system			
+20340	200337	PIM1		200337		HMS_LINCS		KINOMEscan				P11309	none specified	not specified							Bacterial expression system			
+20340	200338	PIM2		200338		HMS_LINCS		KINOMEscan				Q9P1W9	none specified	not specified							Bacterial expression system			
+20340	200339	PIM3		200339		HMS_LINCS		KINOMEscan				Q86V86	none specified	not specified							Bacterial expression system			
+20340	200340	PIP5K1A		200340		HMS_LINCS		KINOMEscan				Q99755	none specified	not specified							Bacterial expression system			
+20340	200341	PIP5K1C		200341		HMS_LINCS		KINOMEscan				O60331	none specified	not specified							Mammalian expression system			
+20340	200342	PIP5K2B		200342		HMS_LINCS		KINOMEscan				P78356	none specified	not specified							Bacterial expression system			
+20340	200343	PI42C		200343		HMS_LINCS		KINOMEscan				Q8TBX8	none specified	not specified							Mammalian expression system			
+20340	200344	PKAC-alpha		200344		HMS_LINCS		KINOMEscan				P17612	none specified	not specified							Bacterial expression system			
+20340	200345	PKAC-beta		200345		HMS_LINCS		KINOMEscan				P22694	none specified	not specified							Bacterial expression system			
+20340	200346	PKMYT1		200346		HMS_LINCS		KINOMEscan				Q99640	none specified	not specified							Bacterial expression system			
+20340	200347	PKN1		200347		HMS_LINCS		KINOMEscan				Q16512	none specified	not specified							Bacterial expression system			
+20340	200348	PKN2		200348		HMS_LINCS		KINOMEscan				Q16513	none specified	not specified							Bacterial expression system			
+20340	200349	PKNB(M.tuberculosis)		200349		HMS_LINCS		KINOMEscan				P0A5S4	none specified	not specified							Mammalian expression system			
+20340	200350	PLK1		200350		HMS_LINCS		KINOMEscan				P53350	none specified	not specified							Mammalian expression system			
+20340	200351	PLK2		200351		HMS_LINCS		KINOMEscan				Q9NYY3	none specified	not specified							Mammalian expression system			
+20340	200352	PLK3		200352		HMS_LINCS		KINOMEscan				Q9H4B4	none specified	not specified							Mammalian expression system			
+20340	200353	PLK4		200353		HMS_LINCS		KINOMEscan				O00444	none specified	not specified							Mammalian expression system			
+20340	200354	KPCD		200354		HMS_LINCS		KINOMEscan				Q05655	none specified	not specified							Bacterial expression system			
+20340	200355	KPCE		200355		HMS_LINCS		KINOMEscan				Q02156	none specified	not specified							Mammalian expression system			
+20340	200356	KPCL		200356		HMS_LINCS		KINOMEscan				P24723	none specified	not specified							Bacterial expression system			
+20340	200357	KPCI		200357		HMS_LINCS		KINOMEscan				P41743	none specified	not specified							Mammalian expression system			
+20340	200358	KPCT		200358		HMS_LINCS		KINOMEscan				Q04759	none specified	not specified							Bacterial expression system			
+20340	200359	KPCD1		200359		HMS_LINCS		KINOMEscan				Q15139	none specified	not specified							Bacterial expression system			
+20340	200360	KPCD2		200360		HMS_LINCS		KINOMEscan				Q9BZL6	none specified	not specified							Bacterial expression system			
+20340	200361	KPCD3		200361		HMS_LINCS		KINOMEscan				O94806	none specified	not specified							Bacterial expression system			
+20340	200362	KGP1		200362		HMS_LINCS		KINOMEscan				Q13976	none specified	not specified							Bacterial expression system			
+20340	200363	KGP2		200363		HMS_LINCS		KINOMEscan				Q13237	none specified	not specified							Mammalian expression system			
+20340	200364	PRKR		200364		HMS_LINCS		KINOMEscan				P19525	none specified	not specified							Bacterial expression system			
+20340	200365	PRKX		200365		HMS_LINCS		KINOMEscan				P51817	none specified	not specified							Bacterial expression system			
+20340	200366	PRP4		200366		HMS_LINCS		KINOMEscan				Q13523	none specified	not specified							Bacterial expression system			
+20340	200367	FAK2		200367		HMS_LINCS		KINOMEscan				Q14289	none specified	not specified							Bacterial expression system			
+20340	200368	SIK3		200368		HMS_LINCS		KINOMEscan				Q9Y2K2	none specified	not specified							Mammalian expression system			
+20340	200369	RAF1		200369		HMS_LINCS		KINOMEscan				P04049	none specified	not specified							Bacterial expression system			
+20340	200370	RET		200370		HMS_LINCS		KINOMEscan				P07949	none specified	not specified							Bacterial expression system			
+20340	200371	RET(M918T)		200371		HMS_LINCS		KINOMEscan				P07949	M918T	not specified							Bacterial expression system			
+20340	200372	RET(V804L)		200372		HMS_LINCS		KINOMEscan				P07949	V804L	not specified							Bacterial expression system			
+20340	200373	RET(V804M)		200373		HMS_LINCS		KINOMEscan				P07949	V804M	not specified							Bacterial expression system			
+20340	200374	RIOK1		200374		HMS_LINCS		KINOMEscan				Q9BRS2	none specified	not specified							Bacterial expression system			
+20340	200375	RIOK2		200375		HMS_LINCS		KINOMEscan				Q9BVS4	none specified	not specified							Mammalian expression system			
+20340	200376	RIOK3		200376		HMS_LINCS		KINOMEscan				O14730	none specified	not specified							Bacterial expression system			
+20340	200377	RIPK1		200377		HMS_LINCS		KINOMEscan				Q13546	none specified	not specified							Bacterial expression system			
+20340	200378	RIPK2		200378		HMS_LINCS		KINOMEscan				O43353	none specified	not specified							Bacterial expression system			
+20340	200379	RIPK4		200379		HMS_LINCS		KINOMEscan				P57078	none specified	not specified							Mammalian expression system			
+20340	200380	RIPK5		200380		HMS_LINCS		KINOMEscan				Q6XUX3	none specified	not specified							Mammalian expression system			
+20340	200381	ROCK1		200381		HMS_LINCS		KINOMEscan				Q13464	none specified	not specified							Mammalian expression system			
+20340	200382	ROCK2		200382		HMS_LINCS		KINOMEscan				O75116	none specified	not specified							Mammalian expression system			
+20340	200383	ROS1		200383		HMS_LINCS		KINOMEscan				P08922	none specified	not specified							Bacterial expression system			
+20340	200390	RPS6KA4(Kin.Dom.1-N-terminal)		200390		HMS_LINCS		KINOMEscan				O75676	none specified	not specified							Bacterial expression system			
+20340	200392	RPS6KA4(Kin.Dom.2-C-terminal)		200392		HMS_LINCS		KINOMEscan				O75676	none specified	not specified							Mammalian expression system			
+20340	200394	RPS6KA5(Kin.Dom.1-N-terminal)		200394		HMS_LINCS		KINOMEscan				O75582	none specified	not specified							Bacterial expression system			
+20340	200396	RPS6KA5(Kin.Dom.2-C-terminal)		200396		HMS_LINCS		KINOMEscan				O75582	none specified	not specified							Bacterial expression system			
+20340	200399	RSK1(Kin.Dom.1-N-terminal)		200399		HMS_LINCS		KINOMEscan				Q15418	none specified	not specified							Bacterial expression system			
+20340	200400	RSK1(Kin.Dom.2-C-terminal)		200400		HMS_LINCS		KINOMEscan				Q15418	none specified	not specified							Bacterial expression system			
+20340	200401	RSK2(Kin.Dom.1-N-terminal)		200401		HMS_LINCS		KINOMEscan				P51812	none specified	not specified							Mammalian expression system			
+20340	200402	RSK3(Kin.Dom.1-N-terminal)		200402		HMS_LINCS		KINOMEscan				Q15349	none specified	not specified							Bacterial expression system			
+20340	200403	RSK3(Kin.Dom.2-C-terminal)		200403		HMS_LINCS		KINOMEscan				Q15349	none specified	not specified							Bacterial expression system			
+20340	200404	RSK4(Kin.Dom.1-N-terminal)		200404		HMS_LINCS		KINOMEscan				Q9UK32	none specified	not specified							Mammalian expression system			
+20340	200405	RSK4(Kin.Dom.2-C-terminal)		200405		HMS_LINCS		KINOMEscan				Q9UK32	none specified	not specified							Bacterial expression system			
+20340	200406	S6K1		200406		HMS_LINCS		KINOMEscan				P23443	none specified	not specified							Mammalian expression system			
+20340	200407	SBK1		200407		HMS_LINCS		KINOMEscan				Q52WX2	none specified	not specified							Mammalian expression system			
+20340	200408	SgK110		200408		HMS_LINCS		KINOMEscan				P0C264	none specified	not specified							Bacterial expression system			
+20340	200409	SGK3		200409		HMS_LINCS		KINOMEscan				Q96BR1	none specified	not specified							Mammalian expression system			
+20340	200410	SIK1		200410		HMS_LINCS		KINOMEscan				P57059	none specified	not specified							Bacterial expression system			
+20340	200411	SIK2		200411		HMS_LINCS		KINOMEscan				Q9H0K1	none specified	not specified							Bacterial expression system			
+20340	200412	SLK		200412		HMS_LINCS		KINOMEscan				Q9H2G2	none specified	not specified							Bacterial expression system			
+20340	200413	SNARK		200413		HMS_LINCS		KINOMEscan				Q9H093	none specified	not specified							Mammalian expression system			
+20340	200414	SNRK		200414		HMS_LINCS		KINOMEscan				Q9NRH2	none specified	not specified							Mammalian expression system			
+20340	200415	SRC		200415		HMS_LINCS		KINOMEscan				P12931	none specified	not specified							Bacterial expression system			
+20340	200416	SRMS		200416		HMS_LINCS		KINOMEscan				Q9H3Y6	none specified	not specified							Mammalian expression system			
+20340	200417	SRPK1		200417		HMS_LINCS		KINOMEscan				Q96SB4	none specified	not specified							Bacterial expression system			
+20340	200418	SRPK2		200418		HMS_LINCS		KINOMEscan				P78362	none specified	not specified							Bacterial expression system			
+20340	200419	SRPK3		200419		HMS_LINCS		KINOMEscan				Q9UPE1	none specified	not specified							Bacterial expression system			
+20340	200420	STK16		200420		HMS_LINCS		KINOMEscan				O75716	none specified	not specified							Bacterial expression system			
+20340	200421	STK33		200421		HMS_LINCS		KINOMEscan				Q9BYT3	none specified	not specified							Bacterial expression system			
+20340	200422	STK35		200422		HMS_LINCS		KINOMEscan				Q8TDR2	none specified	not specified							Bacterial expression system			
+20340	200423	STK36		200423		HMS_LINCS		KINOMEscan				Q9NRP7	none specified	not specified							Bacterial expression system			
+20340	200424	STK39		200424		HMS_LINCS		KINOMEscan				Q9UEW8	none specified	not specified							Mammalian expression system			
+20340	200425	SYK		200425		HMS_LINCS		KINOMEscan				P43405	none specified	not specified							Bacterial expression system			
+20340	200426	TAK1		200426		HMS_LINCS		KINOMEscan				O43318	none specified	not specified							Mammalian expression system			
+20340	200427	TAOK1		200427		HMS_LINCS		KINOMEscan				Q7L7X3	none specified	not specified							Mammalian expression system			
+20340	200428	TAOK2		200428		HMS_LINCS		KINOMEscan				Q9UL54	none specified	not specified							Mammalian expression system			
+20340	200429	TAOK3		200429		HMS_LINCS		KINOMEscan				Q9H2K8	none specified	not specified							Mammalian expression system			
+20340	200430	TBK1		200430		HMS_LINCS		KINOMEscan				Q9UHD2	none specified	not specified							Mammalian expression system			
+20340	200431	TEC		200431		HMS_LINCS		KINOMEscan				P42680	none specified	not specified							Bacterial expression system			
+20340	200432	TESK1		200432		HMS_LINCS		KINOMEscan				Q15569	none specified	not specified							Bacterial expression system			
+20340	200433	TGFBR1		200433		HMS_LINCS		KINOMEscan				P36897	none specified	not specified							Bacterial expression system			
+20340	200434	TGFBR2		200434		HMS_LINCS		KINOMEscan				P37173	none specified	not specified							Bacterial expression system			
+20340	200435	TIE1		200435		HMS_LINCS		KINOMEscan				P35590	none specified	not specified							Bacterial expression system			
+20340	200436	TIE2		200436		HMS_LINCS		KINOMEscan				Q02763	none specified	not specified							Bacterial expression system			
+20340	200437	TLK1		200437		HMS_LINCS		KINOMEscan				Q9UKI8	none specified	not specified							Bacterial expression system			
+20340	200438	TLK2		200438		HMS_LINCS		KINOMEscan				Q86UE8	none specified	not specified							Bacterial expression system			
+20340	200439	TNIK		200439		HMS_LINCS		KINOMEscan				Q9UKE5	none specified	not specified							Bacterial expression system			
+20340	200440	TNK1		200440		HMS_LINCS		KINOMEscan				Q13470	none specified	not specified							Bacterial expression system			
+20340	200441	TNK2		200441		HMS_LINCS		KINOMEscan				Q07912	none specified	not specified							Bacterial expression system			
+20340	200442	TNNI3K		200442		HMS_LINCS		KINOMEscan				Q59H18	none specified	not specified							Bacterial expression system			
+20340	200443	TRKA		200443		HMS_LINCS		KINOMEscan				P04629	none specified	not specified							Mammalian expression system			
+20340	200444	TRKB		200444		HMS_LINCS		KINOMEscan				Q16620	none specified	not specified							Mammalian expression system			
+20340	200445	TRKC		200445		HMS_LINCS		KINOMEscan				Q16288	none specified	not specified							Mammalian expression system			
+20340	200446	TRPM6		200446		HMS_LINCS		KINOMEscan				Q9BX84	none specified	not specified							Mammalian expression system			
+20340	200447	TSSK1		200447		HMS_LINCS		KINOMEscan				Q9BXA7	none specified	not specified							Bacterial expression system			
+20340	200448	TTK		200448		HMS_LINCS		KINOMEscan				P33981	none specified	not specified							Bacterial expression system			
+20340	200449	TXK		200449		HMS_LINCS		KINOMEscan				P42681	none specified	not specified							Bacterial expression system			
+20340	200450	TYK2(JH1domain-catalytic)		200450		HMS_LINCS		KINOMEscan				P29597	none specified	not specified							Mammalian expression system			
+20340	200451	TYK2(JH2domain-pseudokinase)		200451		HMS_LINCS		KINOMEscan				P29597	none specified	not specified							Mammalian expression system			
+20340	200454	TYRO3		200454		HMS_LINCS		KINOMEscan				Q06418	none specified	not specified							Bacterial expression system			
+20340	200455	ULK1		200455		HMS_LINCS		KINOMEscan				O75385	none specified	not specified							Mammalian expression system			
+20340	200456	ULK2		200456		HMS_LINCS		KINOMEscan				Q8IYT8	none specified	not specified							Mammalian expression system			
+20340	200457	ULK3		200457		HMS_LINCS		KINOMEscan				Q6PHR2	none specified	not specified							Mammalian expression system			
+20340	200458	VGFR2		200458		HMS_LINCS		KINOMEscan				P35968	none specified	not specified							Mammalian expression system			
+20340	200459	VRK2		200459		HMS_LINCS		KINOMEscan				Q86Y07	none specified	not specified							Mammalian expression system			
+20340	200460	WEE1		200460		HMS_LINCS		KINOMEscan				P30291	none specified	not specified							Bacterial expression system			
+20340	200461	WEE2		200461		HMS_LINCS		KINOMEscan				P0C1S8	none specified	not specified							Bacterial expression system			
+20340	200462	YANK1		200462		HMS_LINCS		KINOMEscan				Q8WU08	none specified	not specified							Mammalian expression system			
+20340	200463	YANK2		200463		HMS_LINCS		KINOMEscan				Q9NY57	none specified	not specified							Bacterial expression system			
+20340	200464	YANK3		200464		HMS_LINCS		KINOMEscan				Q86UX6	none specified	not specified							Bacterial expression system			
+20340	200465	YES		200465		HMS_LINCS		KINOMEscan				P07947	none specified	not specified							Bacterial expression system			
+20340	200466	YSK1		200466		HMS_LINCS		KINOMEscan				O00506	none specified	not specified							Bacterial expression system			
+20340	200467	YSK4		200467		HMS_LINCS		KINOMEscan				Q56UN5	none specified	not specified							Mammalian expression system			
+20340	200468	MLTK		200468		HMS_LINCS		KINOMEscan				Q9NYL2	none specified	not specified							Bacterial expression system			
+20340	200469	ZAP70		200469		HMS_LINCS		KINOMEscan				P43403	none specified	not specified							Mammalian expression system			
+20340	200471	CSF1R-autoinhibited		200471		HMS_LINCS		KINOMEscan				P07333	none specified	not specified										
+20340	200472	FLT3-autoinhibited		200472		HMS_LINCS		KINOMEscan				P36888	none specified	not specified										
+20340	200473	HASP		200473		HMS_LINCS		KINOMEscan				Q8TF76	none specified	not specified										
+20340	200474	KIT-autoinhibited		200474		HMS_LINCS		KINOMEscan				P10721	none specified	not specified										
+20340	200475	RSK2(Kin.Dom.2-C-terminal)		200475		HMS_LINCS		KINOMEscan				P51812	none specified	not specified										
+20340	200476	SGK1		200476		HMS_LINCS		KINOMEscan				O00141	none specified	not specified										
+20340	200477	WNK1		200477		HMS_LINCS		KINOMEscan				Q9H4A3	none specified	not specified										
+20340	200478	WNK3		200478		HMS_LINCS		KINOMEscan				Q9BYP7	none specified	not specified										
+20340	200479	ALK(C1156Y)		200479		HMS_LINCS		KINOMEscan				Q9UM73	C1156Y	not specified										
+20340	200480	ALK(L1196M)		200480		HMS_LINCS		KINOMEscan				Q9UM73	L1196M	not specified										
+20340	200481	NEK10		200481		HMS_LINCS		KINOMEscan				Q6ZWH5	none specified	not specified										
+20340	201107	MAP3K14		201107		HMS_LINCS		KINOMEscan				Q99558	none specified	not specified										
+20340	201108	SGK2		201108		HMS_LINCS		KINOMEscan				Q9HBY8	none specified	not specified										
