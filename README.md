@@ -1,6 +1,6 @@
 This is an "unofficial fork" from a project my peers and I completed. They are credited below, with links to their GitHub profiles.
 
-The efficacy of an active learning method depends on the characteristics of the data to which it is applied. We wanted to study this relationship in the context of regression, using data specific to the field of biology. Check out our [presentation](https://github.com/egaskin/automation_final_project/blob/main/Automation_Final_Project_Slides.pdf) and [paper](https://github.com/egaskin/automation_final_project/blob/main/Automation_Final_Project_Paper.pdf) for the results of our analysis.
+The efficacy of an active learning method depends on the characteristics of the data to which it is applied. We wanted to study this relationship in the context of regression, using data specific to the field of biology. Check out our [presentation](https://github.com/egaskin/automation_final_project/blob/main/Automation_Final_Project_Slides.pdf) and [report](https://github.com/egaskin/automation_final_project/blob/main/Automation_Final_Project_Paper.pdf) for the results of our analysis.
 
 Work Breakdown:
 - [Nick Ackerman](https://github.com/nickackerman42) worked on regression active learning methods using neural networks (multilayer perceptron) as base learners
